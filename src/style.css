@@ -22,3 +22,9 @@
 @keyframes kindred-drift-two{from{transform:translate(0,0)}to{transform:translate(10px,-9px)}}
 @media(hover:hover){.charcard:hover .avatar.artsize svg{animation-duration:2.6s}}
 @media(prefers-reduced-motion:reduce){.avatar.artsize svg,.lookpreview .avatar svg,.art .orb1,.art .orb2{animation:none!important}}
+@media (max-width: 650px) {
+  .composer input,
+  .formpanel input {
+    font-size: 16px;
+  }
+}
