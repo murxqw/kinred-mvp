@@ -2,7 +2,7 @@
 
 **Kindred** is a mobile-friendly web app for conversations with AI characters. Choose from three distinct companions (Mira, Leo, and Nova), or create your own by selecting a name, personality traits, conversational tone, and visual style.
 
-**Live demo:** _Add Netlify URL after deployment_
+**Live demo:** https://kindred-with-you.netlify.app/
 
 ## What works
 
